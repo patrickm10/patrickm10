@@ -27,11 +27,10 @@ Here's some of my main projects that I work on.
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.w3schools.com/sql/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 [![Biopython](https://img.shields.io/badge/Biopython-FF9E18?style=for-the-badge&logo=Python&logoColor=white)](https://biopython.org/)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4-ff69b4?style=for-the-badge&logo=Python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)](https://spark.apache.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-
+[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4-ff69b4?style=for-the-badge&logo=Python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 Feel free to reach out for collaboration, questions, or just to say hi! 🚀
