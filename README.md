@@ -32,5 +32,5 @@ Here's some of my main projects that I work on. Feel free to reach out for colla
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)](https://spark.apache.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4-ff69b4?style=for-the-badge&logo=Python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-ff69b4?style=for-the-badge&logo=Python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
