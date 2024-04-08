@@ -4,7 +4,8 @@ My name is Patrick and I'm working right now as a data platform engineer but lov
 
 I recently graduated from WPI with a Bachelors in Computer Science and plan on pursuing my Masters degree in Computer Science. 
 
-Here's some of my main projects that I work on.
+Here's some of my main projects that I work on. Feel free to reach out for collaboration, questions, or just to say hi! 🚀
+
 
 ## Socials
 
@@ -33,5 +34,3 @@ Here's some of my main projects that I work on.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4-ff69b4?style=for-the-badge&logo=Python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-
-Feel free to reach out for collaboration, questions, or just to say hi! 🚀
