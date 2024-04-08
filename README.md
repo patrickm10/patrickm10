@@ -4,7 +4,8 @@ My name is Patrick and I'm working right now as a data platform engineer but lov
 
 ## Socials
 
-![LinkedIn](https://www.linkedin.com/in/patrick-mejia-6045151a1/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrick-mejia-6045151a1/)
+
 
 Feel free to reach out for collaboration, questions, or just to say hi! 🚀
 
