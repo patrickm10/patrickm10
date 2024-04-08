@@ -1,6 +1,10 @@
 # About Me
 
-My name is Patrick and I'm working right now as a data platform engineer but love coding in my spare time. I recently graduated from WPI with a Bachelors in Computer Science and plan on pursuing my Masters degree in Computer Science. Here's some of my main projects that I work on.
+My name is Patrick and I'm working right now as a data platform engineer but love coding in my spare time. 
+
+I recently graduated from WPI with a Bachelors in Computer Science and plan on pursuing my Masters degree in Computer Science. 
+
+Here's some of my main projects that I work on.
 
 ## Socials
 
