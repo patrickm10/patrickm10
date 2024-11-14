@@ -6,6 +6,7 @@ I recently graduated from WPI with a Bachelors in Computer Science and plan on p
 
 Here's some of my main projects that I work on. Feel free to reach out for collaboration, questions, or just to say hi! 🚀
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## Socials
 
