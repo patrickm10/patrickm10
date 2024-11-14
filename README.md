@@ -32,6 +32,6 @@ Tech Stack
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickm10&layout=compact)
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickm10)](https://github.com/anuraghazra&hide=issues,contribs/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickm10&layout=compact)
