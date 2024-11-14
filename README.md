@@ -10,13 +10,6 @@ Here's some of my main projects that I work on. Feel free to reach out for colla
 
 <br />
 
-Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrick-mejia-6045151a1/)
-
-
-<br />
-
 Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
