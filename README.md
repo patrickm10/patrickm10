@@ -8,10 +8,14 @@ Here's some of my main projects that I work on. Feel free to reach out for colla
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<br />
+
 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/patrick-mejia-6045151a1/)
 
+
+<br />
 
 Tech Stack
 
