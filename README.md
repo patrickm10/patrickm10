@@ -29,4 +29,5 @@ Tech Stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickm10&layout=compact)
 
+
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickm10)](https://github.com/anuraghazra&hide=issues,contribs/github-readme-stats)
