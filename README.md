@@ -8,6 +8,9 @@ I recently graduated from WPI with a Bachelors in Computer Science and plan on p
 
 Here's some of my main projects that I work on. Feel free to reach out for collaboration, questions, or just to say hi! 🚀
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickm10&layout=compact)
+
 <br />
 
 | **Programming** | **Visualization** | **Cloud**          | **DevOps**        | **Databases**  |
@@ -17,9 +20,5 @@ Here's some of my main projects that I work on. Feel free to reach out for colla
 | [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/) |  |  | ![terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) | ![sql](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | ![bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |  |  | [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/) |  |
 | [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script) |  |  |  |  |
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickm10&layout=compact)
-
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickm10)](https://github.com/anuraghazra&hide=issues,contribs/github-readme-stats)
